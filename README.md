@@ -3,7 +3,7 @@
 <p><em>DevOps | Media Engineer at <a href="http://shahid.net/">MBC (Shahid)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Asseel](https://img.shields.io/badge/-Asseel-Naji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asseel/)](https://www.linkedin.com/in/asseel/)
+[![Linkedin: Asseel](https://img.shields.io/badge/-AsseelNaji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asseel/)](https://www.linkedin.com/in/asseel/)
 [![GitHub Asseel-Naji](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/asseel-naji)
 
 ---
