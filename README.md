@@ -1,26 +1,10 @@
-### Hi there 👋
+<h2> Hi, I'm Asseel Naji! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>DevOps | Media Engineer at <a href="http://shahid.net/">MBC (Shahid)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+[![Linkedin: Asseel](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asseel/)](https://www.linkedin.com/in/asseel/)
+[![GitHub Asseel-Naji](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/asseel-naji)
 
 
-<a href="https://github.com/asseel-naji/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/asseel-naji/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/asseel-naji/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/asseel-naji/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/asseel-naji/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/asseel-naji/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/asseel-naji/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/asseel-naji/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/asseel-naji/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/asseel-naji/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
-
-
-<!--
-**Asseel-Naji/Asseel-Naji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
