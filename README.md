@@ -5,8 +5,8 @@
 <!--   Developer Consultant at <a href="https://www.thoughtworks.com"x</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p> -->
 
-[![Linkedin: Asseel](https://img.shields.io/badge/-Asseel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asseel/)](https://www.linkedin.com/in/asseel/)
-[![GitHub Asseel-Naji](https://img.shields.io/github/followers/asseel-naji?label=follow&style=social)](https://github.com/asseel-naji)
+[![Linkedin: Asseel](https://img.shields.io/badge/-Asseel-blue?style==flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asseel/)](https://www.linkedin.com/in/asseel/)
+[![GitHub Asseel-Naji](https://img.shields.io/github/followers/asseel-naji?label=follow&style=flat-square)](https://github.com/asseel-naji)
 
 ---
 
