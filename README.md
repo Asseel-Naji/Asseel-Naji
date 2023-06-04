@@ -11,7 +11,7 @@
  
 [![GitHub Asseel-Naji](https://img.shields.io/github/followers/asseel-naji?label=follow&style=flat-square)](https://github.com/asseel-naji)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asseel-naji&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asseel-naji&hide_progress=true)](https://github.com/asseel-naji/github-readme-stats)
 ---
 
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)](https://aur.archlinux.org/account/anaji)
