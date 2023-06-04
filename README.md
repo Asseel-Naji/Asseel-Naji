@@ -6,8 +6,12 @@
 </em></p> -->
 
 [![Linkedin: Asseel](https://img.shields.io/badge/-Asseel-blue?style==flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asseel/)](https://www.linkedin.com/in/asseel/)
+ 
+---
+ 
 [![GitHub Asseel-Naji](https://img.shields.io/github/followers/asseel-naji?label=follow&style=flat-square)](https://github.com/asseel-naji)
-
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asseel-naji&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)](https://aur.archlinux.org/account/anaji)
