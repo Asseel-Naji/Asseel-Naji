@@ -6,5 +6,9 @@
 [![Linkedin: Asseel](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asseel/)](https://www.linkedin.com/in/asseel/)
 [![GitHub Asseel-Naji](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/asseel-naji)
 
+---
+
+[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://aur.archlinux.org/account/anaji)
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
