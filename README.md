@@ -1,6 +1,6 @@
 <h2> Hi, I'm Asseel Naji! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="/assets/aws.gif" width="230">
-<p><em>DevOps | Media Engineer at <a href="http://shahid.net/">MBC (Shahid)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>AWS Architect | ML Engineer at <a href="https://eastnets.com">EastNets (FinTech)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
  </br>
 <!--   Developer Consultant at <a href="https://www.thoughtworks.com"x</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p> -->
